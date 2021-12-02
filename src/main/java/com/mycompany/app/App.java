@@ -7,7 +7,7 @@ public class App
 {
 
     private final String message = "Hello World!";
-    private final String message2 = "Hello Teacher";
+    private final String message2 = "Hello UPC";
 
     public App() {}
 
